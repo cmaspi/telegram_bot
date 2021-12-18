@@ -1,0 +1,42 @@
+# db['ADEPU ADARSH SAI']=7.20
+# db['AKYAM L DHATRI NANDA']=1.10
+# db['AMULYA TALLAMRAJU']=4.15
+# db['ANANTHOJU PRANAV SAI']=8.12
+# db['CHINTALAPUDI ABHIROOP']=8.15
+# db['CHIRAG MEHTA']=4.29
+# db['DIGJOY NANDI']=5.12
+# db['G SAVARANA DATTA REDDY']=5.30
+# db['GANJI VARSHITHA']=9.10
+# db['HARITHA R']=12.14
+# db['JAIN DISHANK CHHOTULAL']=12.22
+# db['KANUMURI BHEEMESWARA VIJAY VARMA']=8.09
+# db['KARUMANCHI SACHIN']=9.24
+# db['MANIKANTA VALLEPU']=3.22
+# db['MURARISETTY ADHVIK MANI SAI']=9.24
+# db['NWJWR KHUNGUR BRAHMA']=12.31
+# db['OMKARADITHYA R PUJARI']=3.20
+# db['PERAMBUDURI SRIKARAN']=4.18
+# db['RONGALA ARUN SIDDARDHA']=1.19
+# db['SUJAL']=10.14
+# db['TANMAY GOYAL']=8.25
+# db['VAIBHAV CHHABRA']=10.25
+# db['VISHWANATH HURAKADLI']=3.24
+# db['VOJESWITHA REDDY GOPIREDDY']=5.05
+# db['W.VAISHNAVI']=3.10
+# db['YADAV TANAY MADHAV']=12.28
+# db['YASHAS TADIKAMALLA']=11.07
+
+
+# db["month"] = {"1":{"10":"Dhatri", "19":"Arun"},
+# "2":{},
+# "3":{"22":"Manikanta" , "20":"Omkaradithya" ,"24":"Vishwanath", "3":"Vaishnavi"},
+# "4":{"15":"Amulya" , "29":"Chirag" , "18":"Srikaran" },
+# "5":{"12":"Digjoy" , "30":"Datta" , "5":"Vojeswitha"},
+# "6":{},
+# "7":{"20":"Adarsh" },
+# "8":{"12":"Pranav", "15":"Abhiroop" , "9":"Vijay" , "25":"Tanmay"   },
+# "9":{"10":"Varshitha" , "24":"Sachi and Adhvik"},
+# "10":{"14":"Sujal" , "25":"Vaibhav" },
+# "11":{"7":"Yashas"},
+# "12":{"14":"Haritha" , "22":"Dishank" , "31":"Nwjwr" ,"28":"Tanay" }
+# }
